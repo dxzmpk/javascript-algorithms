@@ -31,9 +31,9 @@
   "author": "Oleksii Trekhleb (https://www.linkedin.com/in/trekhleb/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/trekhleb/javascript-algorithms/issues"
+    "url": "https://github.com/dxzmpk/javascript-algorithms/issues"
   },
-  "homepage": "https://github.com/trekhleb/javascript-algorithms#readme",
+  "homepage": "https://github.com/dxzmpk/javascript-algorithms#readme",
   "devDependencies": {
     "@babel/cli": "7.15.7",
     "@babel/preset-env": "7.15.8",
