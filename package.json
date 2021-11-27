@@ -1,6 +1,6 @@
 {
-  "name": "javascript-algorithms-and-data-structures",
-  "version": "0.0.4",
+  "name": "@dxzmpk/js-algorithms-data-structures",
+  "version": "1.0.0",
   "description": "Algorithms and data-structures implemented on JavaScript",
   "main": "index.js",
   "scripts": {
@@ -38,7 +38,6 @@
     "@babel/cli": "7.15.7",
     "@babel/preset-env": "7.15.8",
     "@types/jest": "27.0.2",
-    "canvas": "2.8.0",
     "eslint": "8.0.1",
     "eslint-config-airbnb": "18.2.1",
     "eslint-plugin-import": "2.25.2",
@@ -51,5 +50,6 @@
   "engines": {
     "node": ">=12.0.0",
     "npm": ">=6.9.0"
-  }
+  },
+  "dependencies": {}
 }
