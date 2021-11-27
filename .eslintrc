@@ -16,5 +16,6 @@
     "react": {
       "version": "latest"
     }
-  }
+  },
+  "ignorePatterns": ["src/**/*.test.ts", "src/**/*.md", "src/**/*.jpg", "src/**/*.png"]
 }

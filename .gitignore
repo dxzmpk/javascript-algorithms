@@ -3,18 +3,5 @@ node_modules
 coverage
 .vscode
 .DS_Store
-**/README.zh-TW.md
-**/README.ko-KR.md
-**/README.ja-JP.md
-**/README.pl-PL.md
-**/README.fr-FR.md
-**/README.es-ES.md
-**/README.pt-BR.md
-**/README.ru-RU.md
-**/README.tr-TR.md
-**/README.it-IT.md
-**/README.id-ID.md
-**/README.uk-UA.md
-**/README.ar-AR.md
-**/README.de-DE.md
+
 
