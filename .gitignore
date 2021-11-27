@@ -3,3 +3,6 @@ node_modules
 coverage
 .vscode
 .DS_Store
+**/README.?????.md
+!**/README.zh-CN.md
+!**/README.md
