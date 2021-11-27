@@ -7,23 +7,6 @@
 
 每种算法和数据结构都有自己的 README，包含相关说明和链接，以便进一步阅读 (还有 YouTube 视频) 。
 
-_Read this in other languages:_
-[_English_](https://github.com/trekhleb/javascript-algorithms/),
-[_繁體中文_](README.zh-TW.md),
-[_한국어_](README.ko-KR.md),
-[_日本語_](README.ja-JP.md),
-[_Polski_](README.pl-PL.md),
-[_Français_](README.fr-FR.md),
-[_Español_](README.es-ES.md),
-[_Português_](README.pt-BR.md),
-[_Русский_](README.ru-RU.md),
-[_Türk_](README.tr-TR.md),
-[_Italiana_](README.it-IT.md),
-[_Bahasa Indonesia_](README.id-ID.md),
-[_Українська_](README.uk-UA.md),
-[_Arabic_](README.ar-AR.md),
-[_Deutsch_](README.de-DE.md)
-
 *注意：这个项目仅用于学习和研究，**不是**用于生产环境。*
 
 ## 数据结构
