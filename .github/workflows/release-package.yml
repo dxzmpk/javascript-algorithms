@@ -25,7 +25,7 @@ jobs:
       - name: Run Coverage
         run: npm run coverage
       - name: Run Test
-      - run: npm run test
+        run: npm run test
 
   publish-gpr:
     needs: build
