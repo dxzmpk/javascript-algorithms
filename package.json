@@ -1,6 +1,6 @@
 {
   "name": "@dxzmpk/js-algorithms-data-structures",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Algorithms and data-structures implemented on JavaScript",
   "main": "index.js",
   "scripts": {

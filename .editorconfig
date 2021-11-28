@@ -4,7 +4,14 @@ root = true
 [*]
 end_of_line = crlf
 insert_final_newline = true
+
+[*.{js,md}]
 charset = utf-8
 indent_style = tab
-indent_size = 2
+indent_size = 4
 trim_trailing_whitespace = true
+
+# Matches the exact files either package.json or .travis.yml
+[package.json]
+indent_style = space
+indent_size = 2
